@@ -2,3 +2,14 @@ body {
     background: red;
     text-align: center;
 }
+
+.post {
+    width: 70%;
+    background: white;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid blue;
+    margin: 0px auto;
+    color: bisque;
+
+}
